@@ -1,0 +1,22 @@
+{
+  "name": "common-utils",
+  "version": "1.0.0",
+  "description": "This project contains all the common utils to be used in Leed projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbakht-leeddev/Common-utils.git"
+  },
+  "keywords": [
+    "common-utils"
+  ],
+  "author": "Fraz Bakht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbakht-leeddev/Common-utils/issues"
+  },
+  "homepage": "https://github.com/fbakht-leeddev/Common-utils#readme"
+}
