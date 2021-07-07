@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/fbakht-leeddev/Common-utils/issues"
   },
-  "homepage": "https://github.com/fbakht-leeddev/Common-utils#readme"
+  "homepage": "https://github.com/fbakht-leeddev/Common-utils#readme",
+  "dependencies": {
+    "@middy/core": "^2.4.3",
+    "@middy/http-json-body-parser": "^2.4.3",
+    "ajv": "^8.6.1",
+    "aws-lambda": "^1.0.6",
+    "json-schema-to-ts": "^1.6.4"
+  }
 }
