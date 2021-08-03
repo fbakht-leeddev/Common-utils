@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This project contains all the common utils to be used in Leed projects.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
