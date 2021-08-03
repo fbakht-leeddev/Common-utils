@@ -1,4 +1,4 @@
-import AnySchemaObject from 'ajv';
+import { AnySchemaObject } from 'ajv';
 import type { APIGatewayProxyEvent, APIGatewayProxyResult, Handler } from 'aws-lambda';
 import type { FromSchema } from 'json-schema-to-ts';
 
