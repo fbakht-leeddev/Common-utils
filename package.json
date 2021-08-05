@@ -23,6 +23,7 @@
   "dependencies": {
     "@middy/core": "^2.4.3",
     "@middy/http-json-body-parser": "^2.4.3",
+    "@types/ajv": "^1.0.0",
     "ajv": "^8.6.1",
     "aws-lambda": "^1.0.6",
     "json-schema-to-ts": "^1.6.4"
